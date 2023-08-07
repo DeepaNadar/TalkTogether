@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871307367734",
+    "project_id": "talktogether-e1823",
+    "storage_bucket": "talktogether-e1823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871307367734:android:b0694781cfb13c5f378f97",
+        "android_client_info": {
+          "package_name": "com.example.talktogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871307367734-i6c8959pnvvgnqqrcqt8mej7vpjlfmdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talktogether",
+            "certificate_hash": "87fb547c52c1a966b5d290c4cc36fbc18653525c"
+          }
+        },
+        {
+          "client_id": "871307367734-881q24psebvtlkks35n1kjec0koiqar4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB1SgVoeoTtVYS1koqac83nUBPa2b0zt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871307367734-881q24psebvtlkks35n1kjec0koiqar4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
